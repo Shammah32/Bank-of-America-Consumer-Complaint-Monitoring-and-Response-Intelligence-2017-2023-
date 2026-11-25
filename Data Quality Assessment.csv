@@ -1,0 +1,11 @@
+Check,Result / treatment
+Rows / columns,"62,516 records; 12 source fields"
+Complaint ID,No duplicate IDs detected; no fully duplicated rows detected
+Date fields,Both date fields imported as dates; no missing dates; no negative forwarding intervals
+Sub-product,7 missing values (0.01%)
+Sub-issue,"10,858 missing values (17.36%)"
+Company public response,"2,175 missing values (3.48%)"
+Timely response?,"1,494 missing values (2.39%); all correspond to In progress records"
+Forwarding interval,Calculated as Date received minus Date submitted; maximum 275 days
+Data coverage,1 May 2017 to 28 August 2023
+,

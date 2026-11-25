@@ -1,0 +1,9 @@
+KPI,Definition,Validated result
+Total complaints,Count of complaint records,"62,516"
+Timely response rate,Yes / (Yes + No); excludes blanks,"96.06% (58,619 / 61,022)"
+Timely response = No,Count of valid No values,"2,403"
+In progress,Company response category = In progress,"1,494"
+Average forwarding interval,Mean of Date received minus Date submitted,1.22 days
+Median forwarding interval,Median of forwarding interval in days,0 days
+Maximum forwarding interval,Maximum forwarding interval in days,275 days
+,,
